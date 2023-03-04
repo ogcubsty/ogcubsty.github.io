@@ -1,2 +1,2 @@
-# ogcubsty.github.io
-**Mikołaj Krężlewicz**
+# ogcubsty
+**ogcubsty**
